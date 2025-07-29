@@ -1,4 +1,4 @@
-# GlobalPay Insights Dashboard
+# FriendiPay Insights Dashboard
 
 A modern, interactive web-based sales dashboard for analyzing **International Remittances** and **Customer Onboarding** data from Excel files.
 
